@@ -1,0 +1,14 @@
+@media only screen and (max-width: 430px) {
+  
+  .header{
+    width: 425px;
+    background-color: red;
+  }
+nav{
+  display: none;
+}
+.logo{
+  /* display: none; */
+}
+
+}
